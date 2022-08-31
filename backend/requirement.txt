@@ -1,0 +1,4 @@
+Django==4.0
+djangorestframework
+facebook-sdk==3.1.0
+django-cors-headers
